@@ -17,8 +17,8 @@ export const DEFAULT_IMAGES = [
       id: '1',
       source: full01,
       thumbnail: thumb01,
-      caption: 'Photo 1',
-      description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+      caption: 'SleepyBeans',
+      description: 'A full stack application for tracking baby sleep',
     },
     {
       id: '2',
@@ -39,20 +39,6 @@ export const DEFAULT_IMAGES = [
       source: full04,
       thumbnail: thumb04,
       caption: 'Photo 4',
-      description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
-    },
-    {
-      id: '5',
-      source: full05,
-      thumbnail: thumb05,
-      caption: 'Photo 5',
-      description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
-    },
-    {
-      id: '6',
-      source: full06,
-      thumbnail: thumb06,
-      caption: 'Photo 6',
       description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
     }
 ]
