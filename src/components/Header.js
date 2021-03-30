@@ -11,13 +11,15 @@ const Header = () => (
       </a>
       <h1>
         <strong>I am Patrick</strong>
-        <br />
-        I am a software Developer
-        <br />
+        <p />
+        <strong>I am a...</strong>
+        <p />
+        Software Developer
+        <p />
         and a Client Support Manager
-        <br />
+        <p />
         and a Photographer
-        <br />
+        <p />
       </h1>
     </div>
     <Footer />
