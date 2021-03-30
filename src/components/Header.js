@@ -11,14 +11,12 @@ const Header = () => (
       </a>
       <h1>
         <strong>I am Patrick Dineen</strong>
-        
         <p />
         Software Developer
         <br />
         &nbsp;and&nbsp; 
         <br />
         Customer Support Manager
-        <p />
       </h1>
     </div>
     <Footer />

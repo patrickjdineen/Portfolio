@@ -19,13 +19,15 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              Hello, 
+              Hello!
             </h2>
           </header>
           <p>
-            I'm a lifelong resident of Chicagoland and currently combining my passion for software development with over a decade of experience in customer support operations management to help businesses with comprehensive and wholesale solutions for any tech related problem.
+            I'm a lifelong resident of Chicagoland and currently combining my passion for software development with a decade plus of experience in customer support operations management to help businesses create comprehensive and wholesale solutions for any tech related problem.
             <br /><br />
-            When I'm not click-clacking away at a new snippet of code, you'll find me spending time with my wife and daughter with my camera in hand, or brewing beer, or playing hockey at Johnny's Ice House.
+            When I'm not click-clacking away at a new snippet of code, you'll find me spending time with my wife and daughter with my camera in hand, brewing beer, or playing hockey at Johnny's Ice House.
+            <br /><br />
+            I'm always open to any new oppurtunity. Please take a look at my resume and my development projects, as well as my GitHub and Instagram.
           </p>
           <ul className="actions">
             <li>
@@ -41,23 +43,23 @@ const HomeIndex = () => {
 
           <Gallery />
 
-          <ul className="actions">
+          {/* <ul className="actions">
             <li>
               <a href="#" className="button">
                 Full Portfolio
               </a>
             </li>
-          </ul>
+          </ul> */}
         </section>
 
         <section id="three">
-          <h2>Get In Touch</h2>
+          {/* <h2>Get In Touch</h2> */}
           <p>
             
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
-              <form method="post" action="#">
+              {/* <form method="post" action="#">
                 <div className="row uniform 50%">
                   <div className="6u 12u$(xsmall)">
                     <input
@@ -89,7 +91,7 @@ const HomeIndex = () => {
                     <input type="submit" value="Send Message" />
                   </li>
                 </ul>
-              </form>
+              </form> */}
             </div>
             <div className="4u 12u$(small)">
               <ul className="labeled-icons">
