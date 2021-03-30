@@ -24,8 +24,9 @@ export const DEFAULT_IMAGES = [
       id: '2',
       source: full02,
       thumbnail: thumb02,
-      caption: 'Photo 2',
-      description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+      caption: 'Open Weather API',
+      description: 'A Vanilla JavaScript API call to get the local weather',
+      link: 'https://elated-kowalevski-baed9a.netlify.app/'
     },
     {
       id: '3',

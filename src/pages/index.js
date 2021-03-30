@@ -19,11 +19,13 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              
+              Hello, 
             </h2>
           </header>
           <p>
-            I'm a fullstack developer focusing in JavaScript and Python working and living in the Chicago area.
+            I'm a lifelong resident of Chicagoland and currently combining my passion for software development with over a decade of experience in customer support operations management to help businesses with comprehensive and wholesale solutions for any tech related problem.
+            <br /><br />
+            When I'm not click-clacking away at a new snippet of code, you'll find me spending time with my wife and daughter with my camera in hand, or brewing beer, or playing hockey at Johnny's Ice House.
           </p>
           <ul className="actions">
             <li>

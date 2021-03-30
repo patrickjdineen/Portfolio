@@ -10,7 +10,7 @@ const Footer = () => (
           </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/patrickjdineen/" className="icon fa-instagram">
+          <a target='_blank' href="https://www.instagram.com/patrickjdineen/" className="icon fa-instagram">
             <span className="label">Instagram</span>
           </a>
         </li>
