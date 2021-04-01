@@ -31,7 +31,7 @@ const HomeIndex = () => {
           </p>
           <ul className="actions">
             <li>
-              <a href="" download className="button">
+              <a href="https://drive.google.com/file/d/19eTxrIuB1sQSENieaSl_qBv6HLMZbVCj/view?usp=sharing" download className="button">
                 My Resume 
               </a>
             </li>
