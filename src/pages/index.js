@@ -31,7 +31,7 @@ const HomeIndex = () => {
           </p>
           <ul className="actions">
             <li>
-              <a href="https://drive.google.com/file/d/19eTxrIuB1sQSENieaSl_qBv6HLMZbVCj/view?usp=sharing" download className="button">
+              <a target="_blank" href="https://drive.google.com/file/d/19eTxrIuB1sQSENieaSl_qBv6HLMZbVCj/view?usp=sharing" className="button">
                 My Resume 
               </a>
             </li>
@@ -59,7 +59,7 @@ const HomeIndex = () => {
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
-              <form name='contact' method="POST" data-netlify="true">
+              <form name='contact' method="post" data-netlify="true">
                 <div className="row uniform 50%">
                   <div className="6u 12u$(xsmall)">
                     <input
@@ -88,7 +88,7 @@ const HomeIndex = () => {
                 </div>
                 <ul className="actions" style={{ marginTop: 30 }}>
                   <li>
-                    <input type="submit" />
+                    <input type='submit' value='Send Message' />
                   </li>
                 </ul>
               </form>
