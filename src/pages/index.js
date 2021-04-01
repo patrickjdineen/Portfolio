@@ -85,10 +85,10 @@ const HomeIndex = () => {
                       rows="4"
                     ></textarea>
                   </div>
+                  <button type='submit'>new test button</button>
                 </div>
                 <ul className="actions" style={{ marginTop: 30 }}>
                   <li>
-                    <button type="submit">Netlify Send</button>
                     <input type="submit" value="Send Message" />
                   </li>
                 </ul>
