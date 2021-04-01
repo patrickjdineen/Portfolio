@@ -8,6 +8,8 @@ const HomeIndex = () => {
   const siteTitle = 'Patrick Dineen Portfolio'
   const siteDescription = "Patrick Dineen's Portfolio"
 
+
+
   return (
     <Layout>
       <Helmet>
@@ -31,7 +33,7 @@ const HomeIndex = () => {
           </p>
           <ul className="actions">
             <li>
-              <a target="_blank" href="https://drive.google.com/file/d/19eTxrIuB1sQSENieaSl_qBv6HLMZbVCj/view?usp=sharing" className="button">
+              <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/19eTxrIuB1sQSENieaSl_qBv6HLMZbVCj/view?usp=sharing" className="button">
                 My Resume 
               </a>
             </li>
@@ -59,7 +61,7 @@ const HomeIndex = () => {
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
-              <form name='contact' method="post" data-netlify="true">
+              {/* <form name='contact' method="post" data-netlify="true">
                 <input type='hidden' name='contact' value='contact'></input>
                 <div className="row uniform 50%">
                   <div className="6u 12u$(xsmall)">
@@ -92,7 +94,7 @@ const HomeIndex = () => {
                     <input type='submit' value='Send Message' />
                   </li>
                 </ul>
-              </form>
+              </form> */}
             </div>
             <div className="4u 12u$(small)">
               <ul className="labeled-icons">
