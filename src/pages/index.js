@@ -59,7 +59,7 @@ const HomeIndex = () => {
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
-              <form method="post" action="#" data-netlify='true'>
+              <form method="post" data-netlify='true'>
                 <div className="row uniform 50%">
                   <div className="6u 12u$(xsmall)">
                     <input
@@ -88,6 +88,7 @@ const HomeIndex = () => {
                 </div>
                 <ul className="actions" style={{ marginTop: 30 }}>
                   <li>
+                    <button type="submit">Netlify Send</button>
                     <input type="submit" value="Send Message" />
                   </li>
                 </ul>
