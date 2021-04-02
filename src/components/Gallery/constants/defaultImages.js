@@ -11,6 +11,7 @@ export const DEFAULT_IMAGES = [
       thumbnail: SleepyBeansThumb,
       caption: 'SleepyBeans',
       description: 'A full stack application for tracking baby sleep',
+      link: 'https://sleepybeans.herokuapp.com/'
     },
     {
       id: '2',
